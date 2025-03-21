@@ -1,0 +1,6 @@
+**/ve
+**/__pycache__
+.vscode/
+staticfiles/
+**/*.pyc
+Dockerfile*

@@ -1,0 +1,30 @@
+@hostname = http://localhost:8000
+
+### запрос на Retrieve C(R)UD
+GET {{hostname}}/author
+Content-Type: application/json
+
+### запрос на Create (C)RUD
+POST {{hostname}}/author
+Content-Type: application/json
+
+
+{
+    "first_name": "Vyacheslav",
+    "last_name": "Samokhvalov",
+    "birth_date": "2004-11-28",
+    "nationality": "Russian",
+    "biography": "Student"
+}
+
+### запрос на Update CR(U)D
+PATCH {{hostname}}/author/1001
+Content-Type: application/json
+
+{
+    "nationality": "American"
+}
+
+### запрос на Destroy CRU(D)
+DELETE {{hostname}}/author/1001
+Content-Type: application/json

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a636293-d32a-4ab2-b53d-043405bcc959" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2sl8oSFuElbSjD0qKtNZbE7yTI7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.lab1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.requests | запрос на Create (C)RUD.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.requests | запрос на Destroy CRU(D).executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.requests | запрос на Retrieve C(R)UD (1).executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.requests | запрос на Retrieve C(R)UD.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.requests | запрос на Update CR(U)D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vyacheslav/Документы/Учеба/Архитектура и дизайн ПО/lab1/manage.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="requests | запрос на Create (C)RUD" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/requests.http" executionIdentifier="запрос на Create (C)RUD" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests | запрос на Destroy CRU(D)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/requests.http" executionIdentifier="запрос на Destroy CRU(D)" index="4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests | запрос на Retrieve C(R)UD (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/requests.http" executionIdentifier="запрос на Retrieve C(R)UD" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests | запрос на Retrieve C(R)UD" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/requests.http" executionIdentifier="запрос на Retrieve C(R)UD" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests | запрос на Update CR(U)D" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/backend/requests.http" executionIdentifier="запрос на Update CR(U)D" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug" nameIsGenerated="true">
+      <module name="lab1" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="localhost" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lab1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="lab1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="lab1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.lab1" />
+      <item itemvalue="HTTP Request.requests | запрос на Create (C)RUD" />
+      <item itemvalue="HTTP Request.requests | запрос на Destroy CRU(D)" />
+      <item itemvalue="HTTP Request.requests | запрос на Retrieve C(R)UD (1)" />
+      <item itemvalue="HTTP Request.requests | запрос на Retrieve C(R)UD" />
+      <item itemvalue="HTTP Request.requests | запрос на Update CR(U)D" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python Debug Server.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.requests | запрос на Retrieve C(R)UD (1)" />
+        <item itemvalue="HTTP Request.requests | запрос на Destroy CRU(D)" />
+        <item itemvalue="HTTP Request.requests | запрос на Update CR(U)D" />
+        <item itemvalue="HTTP Request.requests | запрос на Create (C)RUD" />
+        <item itemvalue="HTTP Request.requests | запрос на Retrieve C(R)UD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a636293-d32a-4ab2-b53d-043405bcc959" name="Changes" comment="" />
+      <created>1739018976416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739018976416</updated>
+      <workItem from="1739018977651" duration="6069000" />
+      <workItem from="1739085736072" duration="5000" />
+      <workItem from="1739559270266" duration="1496000" />
+      <workItem from="1739620045973" duration="6358000" />
+      <workItem from="1739806422154" duration="5000" />
+      <workItem from="1740730172467" duration="5222000" />
+      <workItem from="1740755300041" duration="5079000" />
+      <workItem from="1740776832639" duration="4457000" />
+      <workItem from="1740829904354" duration="6216000" />
+      <workItem from="1740836323415" duration="5113000" />
+      <workItem from="1741018721143" duration="7000" />
+      <workItem from="1741382113719" duration="8581000" />
+      <workItem from="1741619777951" duration="6000" />
+      <workItem from="1741943975529" duration="1982000" />
+      <workItem from="1741975664999" duration="10000" />
+      <workItem from="1741980324485" duration="11856000" />
+      <workItem from="1742295444930" duration="3000" />
+      <workItem from="1742573664537" duration="1474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab1$manage.coverage" NAME="manage Coverage Results" MODIFIED="1739560089603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

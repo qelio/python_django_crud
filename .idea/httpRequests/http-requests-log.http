@@ -1,0 +1,264 @@
+GET http://localhost:8000/author
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-21T193748.200.json
+
+###
+
+DELETE http://localhost:8000/author/1001
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+PATCH http://localhost:8000/author/1001
+Content-Type: application/json
+Content-Length: 33
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "nationality": "American"
+}
+
+<> 2025-03-21T193614.200.json
+
+###
+
+POST http://localhost:8000/author
+Content-Type: application/json
+Content-Length: 156
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "first_name": "Vyacheslav",
+    "last_name": "Samokhvalov",
+    "birth_date": "2004-11-28",
+    "nationality": "Russian",
+    "biography": "Student"
+}
+
+<> 2025-03-21T193607.201.json
+
+###
+
+GET http://localhost:8000/author
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-21T193551.200.json
+
+###
+
+GET http://localhost:8000/author
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-21T192555.200.json
+
+###
+
+GET http://localhost:8000/author
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-21T192551.200.json
+
+###
+
+GET http://localhost:8000/author/2010
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-15T144947.404.json
+
+###
+
+DELETE http://localhost:8000/author/2010
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+GET http://localhost:8000/author
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-15T144919.200.json
+
+###
+
+GET http://localhost:8000/author/2012
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-15T144736.404.json
+
+###
+
+GET http://localhost:8000/author/2012
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-14T223236.404.json
+
+###
+
+DELETE http://localhost:8000/author/2012
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+PATCH http://localhost:8000/author/2012
+Content-Type: application/json
+Content-Length: 33
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "nationality": "American"
+}
+
+<> 2025-03-14T223220.200.json
+
+###
+
+POST http://localhost:8000/author
+Content-Type: application/json
+Content-Length: 156
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "first_name": "Vyacheslav",
+    "last_name": "Samokhvalov",
+    "birth_date": "2004-11-28",
+    "nationality": "Russian",
+    "biography": "Student"
+}
+
+<> 2025-03-14T223207.201.json
+
+###
+
+POST http://localhost:8000/author
+Content-Type: application/json
+Content-Length: 156
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "first_name": "Vyacheslav",
+    "last_name": "Samokhvalov",
+    "birth_date": "2004-11-28",
+    "nationality": "Russian",
+    "biography": "Student"
+}
+
+<> 2025-03-14T223203.201.json
+
+###
+
+POST http://localhost:8000/author
+Content-Type: application/json
+Content-Length: 172
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "id": 1000,
+    "first_name": "Vyacheslav",
+    "last_name": "Samokhvalov",
+    "birth_date": "2004-11-28",
+    "nationality": "Russian",
+    "biography": "Student"
+}
+
+<> 2025-03-14T223152.201.json
+
+###
+
+POST http://localhost:8000/author
+Content-Type: application/json
+Content-Length: 172
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "id": 1000,
+    "first_name": "Vyacheslav",
+    "last_name": "Samokhvalov",
+    "birth_date": "2004-11-28",
+    "nationality": "Russian",
+    "biography": "Student"
+}
+
+<> 2025-03-14T223140.201.json
+
+###
+
+GET http://localhost:8000/author/2008
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-14T223124.200.json
+
+###
+
+GET http://localhost:8000/author/2008
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-14T223118.200.json
+
+###
+
+GET http://localhost:8000/author/2008
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-03-14T223108.200.json
+
+###
+
