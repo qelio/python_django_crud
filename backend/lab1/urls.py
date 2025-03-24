@@ -14,10 +14,10 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 
     # Маршрут для работы со списком авторов (GET — список, POST — создание)
-    path('author', AuthorViewSet.as_view({'get': 'list', 'post': 'create'})),
+    path('api/author', AuthorViewSet.as_view({'get': 'list', 'post': 'create'})),
 
     # Маршрут для работы с конкретным автором (GET — получение, DELETE — удаление, PATCH — частичное обновление)
-    path('author/<pk>', AuthorViewSet.as_view({'get': 'retrieve', 'delete': 'destroy', 'patch': 'partial_update'})),
+    path('api/author/<pk>', AuthorViewSet.as_view({'get': 'retrieve', 'delete': 'destroy', 'patch': 'partial_update'})),
 ]
 
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

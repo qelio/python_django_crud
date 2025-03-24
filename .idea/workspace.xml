@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a636293-d32a-4ab2-b53d-043405bcc959" name="Changes" comment="" />
+    <list default="true" id="2a636293-d32a-4ab2-b53d-043405bcc959" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/lab1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/lab1/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/requests.http" beforeDir="false" afterPath="$PROJECT_DIR$/backend/requests.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngnix/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngnix/templates/default.conf.template" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/templates/default.conf.template" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +28,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -39,6 +51,8 @@
     &quot;Python.manage.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/vyacheslav/Документы/Учеба/Архитектура и дизайн ПО/lab1/manage.py&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -144,10 +158,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.requests | запрос на Create (C)RUD" />
         <item itemvalue="HTTP Request.requests | запрос на Retrieve C(R)UD (1)" />
         <item itemvalue="HTTP Request.requests | запрос на Destroy CRU(D)" />
         <item itemvalue="HTTP Request.requests | запрос на Update CR(U)D" />
-        <item itemvalue="HTTP Request.requests | запрос на Create (C)RUD" />
         <item itemvalue="HTTP Request.requests | запрос на Retrieve C(R)UD" />
       </list>
     </recent_temporary>
@@ -185,7 +199,9 @@
       <workItem from="1741975664999" duration="10000" />
       <workItem from="1741980324485" duration="11856000" />
       <workItem from="1742295444930" duration="3000" />
-      <workItem from="1742573664537" duration="1474000" />
+      <workItem from="1742573664537" duration="1835000" />
+      <workItem from="1742644087670" duration="10329000" />
+      <workItem from="1742722897188" duration="918000" />
     </task>
     <servers />
   </component>

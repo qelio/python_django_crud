@@ -7,7 +7,7 @@
   <component name="TemplatesService">
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/ngnix/templates" />
+        <option value="$MODULE_DIR$/nginx/templates" />
       </list>
     </option>
   </component>
